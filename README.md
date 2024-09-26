@@ -1,9 +1,7 @@
 # awesome-biomedical
 An Exhaustive Repository for Diverse Biomedical Databases and Resources
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/iconify/2.1.2/iconify.min.css">
-
-<span class="iconify" data-icon="icon-park:database-search"></span> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 English version of [README_EN.md](README_EN.md)
 
