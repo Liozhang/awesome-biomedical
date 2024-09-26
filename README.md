@@ -1,7 +1,7 @@
 # awesome-biomedical
 An Exhaustive Repository for Diverse Biomedical Databases and Resources
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[!ICON(icon-park--database-search.svg)] [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 English version of [README_EN.md](README_EN.md)
 
