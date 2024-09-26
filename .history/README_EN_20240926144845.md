@@ -1,0 +1,74 @@
+# awesome-biomedical
+An Exhaustive Repository for Diverse Biomedical Databases and Resources
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+## Purpose
+Provide available bioinformatics databases, covering most model organisms and hot research areas (RNA, DNA, Protein, Drug). Researchers can use the provided databases for preliminary research and comparison with peer data.
+
+## Latest Update
+latest update: 2022-12
+
+## Instructions
+`All.Bookmarks.2023-02-21.html` is a collection of 3922 available databases or comprehensive websites, which have been preliminarily grouped and can be imported into `Edge` or other browsers as bookmarks. Importing too many bookmarks at once may temporarily freeze the browser, please be patient.
+`Group.{area}.{date}.html` is the naming convention for sub-files, where `area` is a subset based on specific fields or keywords, and `date` is the update date. Below are the subsets of possible fields.
+
+1. Antibiotic: Antibiotics and resistance
+2. Blood: Blood diseases
+3. Brain: Neuroscience
+4. Cancer: Cancer research
+5. CRISPR: CRISPR gene editing
+6. Dictionary: Explanation of field keywords, professional terms, and terminology
+7. Drug: Drugs and clinical trials
+8. Ecoli: E. coli databases
+9. Encyclopedia: Professional field encyclopedias
+10. Enzyme: Enzyme-related
+11. Epigenomic: Epigenetics
+12. Eye: Ophthalmology
+13. GeneSet: Specific gene sets
+14. Genomic: Genomics
+15. Immunity: Immunity and infection
+16. Metabolomic: Metabolomics
+17. Metagenome: Metagenomics
+18. Ontology: Links to various ontologies
+19. Paper: Literature search
+20. Pathway: Pathways and routes
+21. Protein: Proteomics
+22. Protocol: Experiments and PCR
+23. SingleCell: Single-cell research
+24. StemCell: Stem cells
+25. Traditional: Traditional medicine and herbs
+26. Transcriptome: Transcriptomics
+27. Variantion: Variations and annotations
+28. Virus: Virology
+29. Yeast: Yeast research
+
+Each HTML file can be imported into the browser as bookmarks. The bookmark path is: Favorites bar -> Research Tools -> Relevant Subset Name.
+
+## Bookmark Title Format
+
+Main format of bookmark titles: `{Website Name} || {Website Description} | {Top Five Keywords}`
+
+Example: `MarkerDB || Biomarker Database | DNA | RNA | Protein | Structure | Pathway`
+
+Website Name: Can be the full name or abbreviation of the database or website.
+
+Example: `MarkerDB`
+
+Website Description: A brief introduction to the website, obtained manually or from the webpage title, translated into Chinese or only in English. Some websites that are difficult to distinguish may not have a description.
+
+Example: `Biomarker Database`
+
+Top Five Keywords: Obtained from the given webpage. If the website is for data analysis or the webpage has little text, it may not be possible to obtain the keywords correctly.
+
+Example: `DNA | RNA | Protein | Structure | Pathway`
+
+## Usage in Edge Browser
+
+After importing into the browser, you can directly search for related tags in the Edge browser's address bar by typing part of the bookmark title keywords, such as:
+
+Type "ngdc"
+
+If there is no prompt, you can enable it by the following operation:
+
+Privacy, search, and services >> Address bar and search >> Show me suggestions from history, favorites, and other data on this device as I type
