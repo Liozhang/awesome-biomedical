@@ -1,0 +1,31 @@
+# Words corresponding to categories, with a sequence.
+
+Dictionary: 字典|术语|Glossary|词典|名词
+Enzyme: enzyme|酶
+Pathway: 通路|途径|pathway
+Eye: eye|retina|Pigment cell|Retino|视网膜|Retinopathies| retin|眼|角膜|optic
+Yeast: yeast|酵母
+Genomic: genomic|基因组
+Ecoli: e.coli|大肠杆菌|coli
+Antibiotic: Antibio|抗生素|耐药|抗药|Antiviral
+Ontology: ontology
+Metagenome: 微生物组|肠道菌群|microb|Metagenome|metagenomic
+Metabolomic: Metabolomic|metagenomic|metabio|代谢|毒理
+Drug: drug|药物|Pharmacogene|药理|毒理|viccine|药|natural product|天然产物|Clinical\s*\w*Trials|临床\w*试验
+Variantion: 位点注释|突变注释|变异注释|SNP|SNV|mutation|mutant|variant|突变|变异
+CRISPR: CRISPR|cas13|cas12|cas9|基因编辑|gRNA|gene edit
+Canser: Carcinoma|癌|cancer|瘤|tumor
+Immunity: immu|antibody|epitope|HLA |mhc|Pathogen|Infectious|Infection|antigen|免疫|抗原|表位|感染|病原|tcell|bcell|T细胞|B细胞|淋巴
+Virus: virus|virial| vir|病毒|covid|cov-19|sars
+Blood: haemoglobin|blood|hema|红细胞|血|tcell|bcell|T细胞|B细胞|淋巴|macrophage|巨噬
+StemCell: 干细胞|祖细胞|stem cell
+Encyclopedia: Encyclopedia|知识库|knowledge|百科
+Epigenomic: methy|epig|表观|甲基化|组蛋白|Histones|染色质|chromatin|Nucleosome|核小体|atac-seq
+SingleCell: single cell|single-cell|单细胞|时空转录组|空间转录组
+Brain: brain|脑|神经|neur|Glioma
+GeneSet: 基因集| genes database|gene\s*\w*database|gene set|基因数据库|融合|fusion
+Protocol: protocol|实验方法|qPCR|-pcr |plasmid|Primer
+Transcriptome: circ|lncRNA|mirna|microRNA|micro-rna|micro rna|long nocoding rna|nocoding rna|ncrna|rRNA|tRNA|RNAs|enhancer|transcript factor|转录因子|增强子|rna seq|rna-seq|rna structure|RNA\s*\w*结构|转录组|transcriptome|single cell|single-cell|单细胞|时空转录组|空间转录组|transcript|Alternative splicing|single cell|single|剪接|表达|RNA\w*数据库|RNA\w*编辑|RNA\w*修饰|exon\s*\w*skip
+Protein: proteo|蛋白组|蛋白质组|蛋白\w*结构|protein \w+ struct|蛋白质\w*分类|蛋白质\w*数据库|蛋白|磷酸化|Phospho|肽|Peptides
+Paper: paper|文章|文献|期刊
+Traditional: 中医|中药|traditional|草药|传统
