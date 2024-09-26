@@ -1,6 +1,8 @@
 # awesome-biomedical
 An Exhaustive Repository for Diverse Biomedical Databases and Resources
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ## 目的
 提供现有的可用的生物信息学数据库，涵盖大多数模式生物及热点研究领域（RNA、DNA、Protein、Drug），各研究人员可利用提供的数据库进行前期的调研和与同行间的数据进行比较。
 
