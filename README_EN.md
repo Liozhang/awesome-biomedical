@@ -1,4 +1,4 @@
-# awesome-biomedical
+# awesome-biomedical-database
 An Exhaustive Repository for Diverse Biomedical Databases and Resources
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
